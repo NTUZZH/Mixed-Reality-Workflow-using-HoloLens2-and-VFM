@@ -2,7 +2,7 @@
 
 A Mixed Reality application for HoloLens 2, built with Unity and the Mixed Reality Toolkit (MRTK). This application leverages the device's RGB and depth camera and performs complex image processing and segmentation. It features spatial mapping and dynamic building elements segmentation and quantification. 
 
-This project has been published as a journal paper titled **"Automated non-contact geometric quality assessment of building elements integrating mixed reality, depth sensing, and vision foundation model"** in the Journal of Computing in Civil Engineering.
+This project has been published as a journal paper titled **"Automated non-contact geometric quality assessment of building elements integrating mixed reality, depth sensing, and vision foundation model"** in the Journal of Computing in Civil Engineering (in press).
 
 ## Technologies & Dependencies
 
